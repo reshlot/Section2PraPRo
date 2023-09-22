@@ -1,0 +1,5 @@
+D:\Simplilearn\SpecFlow\Practice Project\Secction-2\School\Schoo.Tests\obj\Debug\net6.0\Schoo.Tests.csproj.AssemblyReference.cache
+D:\Simplilearn\SpecFlow\Practice Project\Secction-2\School\Schoo.Tests\obj\Debug\net6.0\Schoo.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simplilearn\SpecFlow\Practice Project\Secction-2\School\Schoo.Tests\obj\Debug\net6.0\Schoo.Tests.AssemblyInfoInputs.cache
+D:\Simplilearn\SpecFlow\Practice Project\Secction-2\School\Schoo.Tests\obj\Debug\net6.0\Schoo.Tests.AssemblyInfo.cs
+D:\Simplilearn\SpecFlow\Practice Project\Secction-2\School\Schoo.Tests\obj\Debug\net6.0\Schoo.Tests.csproj.CoreCompileInputs.cache
